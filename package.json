@@ -3,7 +3,7 @@
   "tag": "new",
   "isHeaderComponent": true,
   "id": "components/core/CollapsibleHeader",
-  "affiliates":["kotv"],
+  "affiliates":["qafrankly"],
   "propTypes": {
 		"enableSearch": "PropTypes.bool",
 		"backgroundColor": "PropTypes.string",
